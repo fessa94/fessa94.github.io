@@ -146,8 +146,8 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
-    background: url(../img/car.JPG) no-repeat bottom center scroll;
+    color: #fff; 
+    background: url(https://github.com/fessa94/fessa94.github.io/blob/master/img/car.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
